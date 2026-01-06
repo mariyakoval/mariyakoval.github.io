@@ -3,105 +3,78 @@ slug: "me"
 is_owner: true
 name:
   display: "Mariia Koval"
-  given: "Alex"
-  family: "Johnson"
+  given: "Mariia"
+  family: "Koval"
   alternate: ""
-  pronunciation: ""
-  pronouns: "he/him"
-postnominals:
-  - "PhD"
-  - "MIEEE"
-status:
-  icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
-affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  pronunciation: "/ˈmɑriː.ɑ/"
+  pronouns: "she/her"
+role: "Data Scientist"
+bio: "Mariia Koval thrives in solving challenges using data science, applied econometrics, and quantitative research. She has worked on projects involving machine learning, regression analysis, and data visualization, using real-world datasets to study economic, social, and market outcomes. Mariia enjoys combining technical analysis with economic intuition, and she is currently developing projects focused on market risk, macroeconomic indicators, and financial applications of statistical modeling."
+affiliations: []
 links:
   - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
+    url: "mailto:mariyakoval787@gmail.com"
     label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
   - icon: "brands/github"
-    url: "https://github.com/example"
+    url: "https://github.com/mariyakoval/portfolio"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
-  - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
-  - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+    url: "https://www.linkedin.com/in/mariya-koval/"
 interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+  - "Statistical learning and predictive modeling"
+  - "Risk analysis and uncertainty quantification"
+  - "Applied data science in economics and finance"
+  - "Market risk modeling and portfolio analysis"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+  - degree: "BA in Economics, Statistics"
+    institution: "Amherst College"
+    start: "2024-09-01"
+    end: "2028-05-15"
+    summary: ""
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
-skills:
-  - name: "Technical Skills"
-    items:
-      - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
-        level: 4
-  - name: "Research & Communication"
-    items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
+  - role: "Financial Aid Office intern"
+    org: "Amherst College"
+    start: "2025-09-01"
+    end: ""
+    summary: "Analyzed financial aid packages and loan structures to support student financial decision-making.
+
+      Developed guidelines for aid calculations and international package transfers for consistency and awareness.
+
+      Tested the financial literacy platform, providing analytical and technical recommendations to improve user engagement."
+  - role: "Data Science and Digital Development intern"
+    org: "University of Tartu"
+    start: "2025-06"
+    end: "2025-08"
+    summary: "Analyzed large-scale microdata using regression and machine learning to model probabilistic outcomes under uncertainty.
+
+      Automated data preprocessing and feature engineering pipelines in R for reproducibility of quantitative analysis.
+
+      Communicated quantitative findings to a non-technical audience through written reports and media publications.
+
+      Examined relationships between labor market outcomes and macroeconomic indicators across European economies.
+
+      Developed React.js games with custom UI (Tailwind CSS/HTML) and interactive logic to simulate Citizens’ Assemblies, Participatory Budgeting, and E-Petitions platforms for civic education purposes."
+  - role: "President & Head of Committees"
+    org: "Model European Parliament (MEP)"
+    start: "2022-09"
+    end: "2024-06"
+    summary: "Organized two 4-day conferences in Bratislava for 120 participants, overseeing a team of 15.
+
+      Secured over €10,000 from the European Parliament Liaison Office in Slovakia and companies, including Martinus and Lunter, covering 85% of event costs.
+
+      Chaired international MEP sessions in Bratislava and Tallinn, moderating debates and guiding policy drafting."
+skills: []
 languages:
   - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 4
+    level: null
     label: "Fluent"
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+  - name: "Russian"
+    level: null
+    label: "Native"
+  - name: "Ukrainian"
+    level: null
+    label: "Native"
+  - name: "French"
+    level: null
+    label: "Advanced"
+awards: []
+weight: null
