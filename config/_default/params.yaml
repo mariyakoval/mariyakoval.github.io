@@ -7,15 +7,15 @@ hugoblox:
     description: ""
   theme:
     mode: system
-    pack: minimal
+    pack: retro
     colors:
       primary: blue
-      secondary: gray
+      secondary: rose
       neutral: ""
     colors_light:
       primary: blue
-      secondary: gray
-      neutral: gray
+      secondary: rose
+      neutral: rose
     colors_dark:
       primary: slate
   typography:
