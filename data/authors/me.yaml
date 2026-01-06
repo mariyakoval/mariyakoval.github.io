@@ -34,7 +34,7 @@ experience:
   - role: "Financial Aid Office intern"
     org: "Amherst College"
     start: "2025-09-01"
-    end: ""
+    end: null
     summary: "Analyzed financial aid packages and loan structures to support student financial decision-making.
 
       Developed guidelines for aid calculations and international package transfers for consistency and awareness.
@@ -42,8 +42,8 @@ experience:
       Tested the financial literacy platform, providing analytical and technical recommendations to improve user engagement."
   - role: "Data Science and Digital Development intern"
     org: "University of Tartu"
-    start: "2025-06"
-    end: "2025-08"
+    start: "2025-06-01"
+    end: "2025-08-31"
     summary: "Analyzed large-scale microdata using regression and machine learning to model probabilistic outcomes under uncertainty.
 
       Automated data preprocessing and feature engineering pipelines in R for reproducibility of quantitative analysis.
@@ -55,8 +55,8 @@ experience:
       Developed React.js games with custom UI (Tailwind CSS/HTML) and interactive logic to simulate Citizens’ Assemblies, Participatory Budgeting, and E-Petitions platforms for civic education purposes."
   - role: "President & Head of Committees"
     org: "Model European Parliament (MEP)"
-    start: "2022-09"
-    end: "2024-06"
+    start: "2022-09-01"
+    end: "2024-06-30"
     summary: "Organized two 4-day conferences in Bratislava for 120 participants, overseeing a team of 15.
 
       Secured over €10,000 from the European Parliament Liaison Office in Slovakia and companies, including Martinus and Lunter, covering 85% of event costs.
