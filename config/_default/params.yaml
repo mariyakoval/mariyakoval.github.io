@@ -7,11 +7,17 @@ hugoblox:
     description: ""
   theme:
     mode: system
-    pack: contrast
+    pack: minimal
     colors:
-      primary: ""
-      secondary: ""
+      primary: blue
+      secondary: gray
       neutral: ""
+    colors_light:
+      primary: blue
+      secondary: gray
+      neutral: gray
+    colors_dark:
+      primary: slate
   typography:
     font: sans
     size: md
