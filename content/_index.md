@@ -44,16 +44,14 @@ sections:
     _internalId: "section-rQaWnsNN"
   - block: "collection"
     content:
-      title: "Featured Projects"
+      offset: 0
+      sort_by: "Date"
+      sort_ascending: false
       filters:
-        folders: []
-        featured_only: true
-    design:
-      view: "article-grid"
-      columns: 2
-    oe: "section-papers"
-    id: "projects"
-    _internalId: "section-DgJrOQxo"
+        publication_type: "project"
+      title: "Featured Projects"
+    oe: "section-4-collection"
+    _internalId: "section-SpZ1Dz1I"
   - block: "cta-card"
     demo: true
     content:

@@ -111,6 +111,37 @@
   margin-top: 0.2rem;    /* reduce spacing */
 }
 
+/* Style the link as a button */
+.hb-attachment-link.hb-attachment-link-large {
+  display: inline-flex;          /* icon + text align nicely */
+  align-items: center;
+  gap: 0.5rem;                   /* space between icon and text */
+  font-size: 1.1rem;             /* slightly bigger text */
+  font-weight: 700;               /* bold text */
+  padding: 0.5rem 1rem;           /* comfortable button padding */
+  margin-bottom: 0.5rem;          /* reduce bottom space */
+  text-decoration: none;          /* remove underline */
+  color: #ffffff;                 /* button text color */
+  background-color: #1f2937;      /* dark gray button background */
+  border-radius: 0.5rem;          /* rounded corners */
+  transition: all 0.2s ease-in-out; /* smooth hover animation */
+}
+
+/* Icon inside the button */
+.hb-attachment-link.hb-attachment-link-large svg {
+  height: 1.2em;                  /* slightly bigger icon */
+  width: auto;
+  stroke-width: 2;                 /* bolder lines */
+}
+
+/* Hover effect */
+.hb-attachment-link.hb-attachment-link-large:hover {
+  background-color: #374151;       /* slightly lighter on hover */
+  transform: translateY(-1px);     /* subtle lift effect */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+
 
 
 
