@@ -30,14 +30,12 @@ sections:
     _internalId: "section-mgeTTfH_"
   - block: "markdown"
     content:
-      title: "My Research"
+      title: "My Work"
       subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I use data and quantitative methods to study economic and financial questions, with a focus on risk, uncertainty, and decision-making. My work draws on statistics, machine learning, and applied data analysis to turn complex datasets into practical insights.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I am always open to collaboration and conversation – feel free to reach out.
     design:
       columns: "1"
     oe: "section-e1b696cb"
