@@ -56,7 +56,25 @@ experience:
       Secured over €10,000 from the European Parliament Liaison Office in Slovakia and companies, including Martinus and Lunter, covering 85% of event costs.
 
       Chaired international MEP sessions in Bratislava and Tallinn, moderating debates and guiding policy drafting."
-skills: []
+skills:
+  - name: "Technical skills"
+    items:
+      - label: "R"
+        level: 5
+      - label: "Python"
+        level: 5
+      - label: "Excel"
+        level: 5
+      - label: "SQL"
+        level: 5
+      - label: "Java"
+        level: 5
+      - label: "JavaScript"
+        level: 5
+      - label: "React"
+        level: 5
+      - label: "Git"
+        level: 5
 languages:
   - name: "English"
     level: null
@@ -70,7 +88,16 @@ languages:
   - name: "French"
     level: null
     label: "Advanced"
-awards: []
+awards:
+  - title: "Charles Hamilton Houston Program Scholar"
+    awarder: "Amherst College"
+    date: "2025-06-01"
+    summary: "Awarded funding for an unpaid internship in data analysis"
+    icon: ""
+  - title: "Mount Vernon Student of the Year Award"
+    awarder: "Mount Vernon"
+    date: "2022-01-01"
+    summary: "Honored for academic excellence and community leadership."
 weight: null
 status:
   icon: ""
