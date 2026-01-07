@@ -23,7 +23,7 @@ hugoblox:
     size: md
   layout:
     radius: md
-    spacing: comfortable
+    spacing: cozy
     avatar_shape: circle
   header:
     enable: true

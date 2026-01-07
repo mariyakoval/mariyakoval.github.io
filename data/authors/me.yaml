@@ -7,8 +7,8 @@ name:
   family: "Koval"
   alternate: ""
   pronunciation: "/ˈmɑriː.ɑ/"
-  pronouns: "she/her"
-role: "Data Scientist"
+  pronouns: ""
+role: "<span style='font-size:0.9em;'>B.A. Economics &amp; Statistics,<br/>Amherst College<br/><span style='font-size:0.8em;'>(Sep 2024 – May 2028)</span></span>"
 bio: "Mariia Koval thrives in solving challenges using data science, applied econometrics, and quantitative research. She has worked on projects involving machine learning, regression analysis, and data visualization, using real-world datasets to study economic, social, and market outcomes. Mariia enjoys combining technical analysis with economic intuition, and she is currently developing projects focused on market risk, macroeconomic indicators, and financial applications of statistical modeling."
 affiliations: []
 links:
@@ -24,12 +24,6 @@ interests:
   - "Risk analysis and uncertainty quantification"
   - "Applied data science in economics and finance"
   - "Market risk modeling and portfolio analysis"
-education:
-  - degree: "BA in Economics, Statistics"
-    institution: "Amherst College"
-    start: "2024-09-01"
-    end: "2028-05-15"
-    summary: ""
 experience:
   - role: "Financial Aid Office intern"
     org: "Amherst College"

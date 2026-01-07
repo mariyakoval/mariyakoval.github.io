@@ -1,0 +1,22 @@
+/* Reduce top padding above avatar & professional summary on desktop for resume biography */
+
+@media (min-width: 768px) {
+  /* md and up */
+  .blox-resume-biography-3 .resume-biography {
+    padding-top: 0.5rem !important; /* was md:py-16 */
+  }
+}
+
+@media (min-width: 1024px) {
+  /* lg and up */
+  .blox-resume-biography-3 .resume-biography {
+    padding-top: 0.75rem !important; /* was lg:py-24 */
+  }
+}
+
+@media (min-width: 1280px) {
+  /* xl and up */
+  .blox-resume-biography-3 .resume-biography {
+    padding-top: 1rem !important; /* was xl:py-32 */
+  }
+}
