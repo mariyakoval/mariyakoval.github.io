@@ -46,6 +46,18 @@ sections:
       sort_by: "Date"
       sort_ascending: false
       filters:
+        publication_type: "article"
+      title: "Articles"
+    oe: "section-4-collection"
+    design:
+      view: "article-grid"
+      columns: 1
+  - block: "collection"
+    content:
+      offset: 0
+      sort_by: "Date"
+      sort_ascending: false
+      filters:
         publication_type: "project"
       title: "Featured Projects"
     oe: "section-4-collection"
