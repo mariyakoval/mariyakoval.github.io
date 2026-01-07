@@ -8,6 +8,7 @@ publication_types: ["project"]
 tags:
   - ANOVA
   - R
+  - Regression
 ---
 
 Analysis of article shareability using one-way ANOVA and Kruskal-Wallis tests on predictors related to textual features, visuals, day of posting, category, and sentiment.

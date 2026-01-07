@@ -7,6 +7,8 @@ links:
 publication_types: ["project"]
 tags:
   - Java
+  - Web Development
+  - E-Learning
 ---
 
 The game is a single-player interactive simulation to show how different decisions influence the resource-dependent country's economic growth and people's well-being.

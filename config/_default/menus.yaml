@@ -12,15 +12,15 @@ main:
     identifier: voTnWUAe
     url: experience/
     weight: 20
-  - name: Projects
-    identifier: 4liCkJg9
-    url: projects/
-    weight: 30
   - name: Certifications
     identifier: certifications
     url: /certifications
-    weight: 40
+    weight: 30
   - name: Contact
     identifier: contact
     url: /contact
+    weight: 40
+  - name: Projects
+    identifier: 4liCkJg9
+    url: /projects
     weight: 50
