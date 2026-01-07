@@ -20,10 +20,10 @@ links:
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/mariya-koval/"
 interests:
-  - "Statistical learning and predictive modeling"
-  - "Risk analysis and uncertainty quantification"
-  - "Applied data science in economics and finance"
-  - "Market risk modeling and portfolio analysis"
+  - "• Statistical learning and predictive modeling"
+  - "• Risk analysis and uncertainty quantification"
+  - "• Applied data science in economics and finance"
+  - "• Market risk modeling and portfolio analysis"
 experience:
   - role: "Financial Aid Office intern"
     org: "Amherst College"
@@ -74,3 +74,16 @@ awards: []
 weight: null
 status:
   icon: ""
+education:
+  - degree: "B.A. Economics and Statistics"
+    institution: "Amherst College"
+    start: "2024-09-01"
+    end: "2028-05-04"
+    summary: "Relevant Coursework: Financial Economics, Econometrics, Data Science, Probability, Statistical Communication
+
+      GPA: 3.86/4.00"
+  - degree: "Study Abroad Program (Exchange)"
+    institution: "Stockholm School of Economics"
+    start: "2026-01-12"
+    end: "2026-05-04"
+    summary: "Relevant Coursework: Behavioral Finance, Economics of European Integration, Psychology of Work"

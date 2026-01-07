@@ -44,68 +44,16 @@ sections:
     _internalId: "section-rQaWnsNN"
   - block: "collection"
     content:
-      title: "Featured Publications"
+      title: "Featured Projects"
       filters:
-        folders:
-          - "publications"
+        folders: []
         featured_only: true
     design:
       view: "article-grid"
       columns: 2
     oe: "section-papers"
-    id: "papers"
+    id: "projects"
     _internalId: "section-DgJrOQxo"
-  - block: "collection"
-    content:
-      title: "Recent Publications"
-      text: ""
-      filters:
-        folders:
-          - "publications"
-        exclude_featured: false
-    design:
-      view: "citation"
-    oe: "section-82a7b6fe"
-    _internalId: "section-VkzP0Tu0"
-  - block: "collection"
-    content:
-      title: "Recent & Upcoming Talks"
-      filters:
-        folders:
-          - "events"
-    design:
-      view: "card"
-    oe: "section-talks"
-    id: "talks"
-    _internalId: "section-To-6-hix"
-  - block: "collection"
-    content:
-      title: "Recent News"
-      subtitle: ""
-      text: ""
-      page_type: "blog"
-      count: 10
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      offset: 0
-      order: "desc"
-    design:
-      view: "card"
-      spacing:
-        padding:
-          - 0
-          - 0
-          - 0
-          - 0
-    oe: "section-news"
-    id: "news"
-    _internalId: "section-vXM3NZpQ"
   - block: "cta-card"
     demo: true
     content:

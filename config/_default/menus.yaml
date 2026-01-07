@@ -16,15 +16,11 @@ main:
     identifier: 4liCkJg9
     url: projects/
     weight: 30
-  - name: Courses
-    identifier: ftbDjJpZ
-    url: courses/
-    weight: 40
   - name: Certifications
     identifier: certifications
     url: /certifications
-    weight: 50
+    weight: 40
   - name: Contact
     identifier: contact
     url: /contact
-    weight: 60
+    weight: 50
