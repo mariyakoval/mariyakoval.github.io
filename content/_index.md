@@ -50,7 +50,8 @@ sections:
       title: "Featured Projects"
     oe: "section-4-collection"
     design:
-      view: "card"
+      view: "article-grid"
+      columns: 3
     _internalId: "section-SpZ1Dz1I"
   - block: "cta-card"
     demo: true
