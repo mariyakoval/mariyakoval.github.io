@@ -4,7 +4,7 @@ date:
 links:
   - type: site
     url: https://engage-flax.vercel.app/
-publication_types: ["programmingproject"]
+publication_types: ["programming"]
 tags:
   - React
   - JavaScript

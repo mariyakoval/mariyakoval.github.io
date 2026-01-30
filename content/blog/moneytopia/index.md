@@ -4,7 +4,7 @@ date:
 links:
   - type: site
     url: https://github.com/mariyakoval/personal-portfolio/tree/8abb5fc8440f3cbd1472e8dde74550c5e27bde8b/moneytopia
-publication_types: ["programmingproject"]
+publication_types: ["programming"]
 tags:
   - Java
   - Web Development
