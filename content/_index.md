@@ -47,7 +47,7 @@ sections:
       sort_ascending: false
       filters:
         publication_type: "article"
-      title: "Articles"
+      title: "Financial Analysis"
     oe: "section-4-collection"
     design:
       view: "article-grid"
@@ -59,7 +59,20 @@ sections:
       sort_ascending: false
       filters:
         publication_type: "project"
-      title: "Featured Projects"
+      title: "Data Science/ML projects"
+    oe: "section-4-collection"
+    design:
+      view: "article-grid"
+      columns: 3
+    _internalId: "section-SpZ1Dz1I"
+  - block: "collection"
+    content:
+      offset: 0
+      sort_by: "Date"
+      sort_ascending: false
+      filters:
+        publication_type: "programming"
+      title: "Programming projects"
     oe: "section-4-collection"
     design:
       view: "article-grid"
