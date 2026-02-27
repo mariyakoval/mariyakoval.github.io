@@ -1,21 +1,22 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
+  homepage: 'https://mariyakoval.github.io/',
   title: 'JS.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
-  picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
+  name: 'Mariia Koval',
+  role: 'B.A. Economics & Statistics, Amherst College',
+  picture: 'photo.png',
 
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Mariia Koval thrives in solving challenges using data science, applied econometrics, and quantitative research. She has worked on projects involving machine learning, regression analysis, and data visualization, using real-world datasets to study economic, social, and market outcomes. Mariia enjoys combining technical analysis with economic intuition, and she is currently developing projects focused on market risk, macroeconomic indicators, and financial applications of statistical modeling.',
+  resume: 'assets/Koval_Mariia_Resume.pdf',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/mariya-koval/',
+    github: 'https://github.com/mariyakoval/portfolio',
+    email: 'mailto:mariyakoval787@gmail.com'
   },
 }
 

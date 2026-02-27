@@ -8,7 +8,8 @@
 }
 
 .about__role {
-  margin-top: 1.2em;
+  margin-top: 0.6em;
+  max-width: 600px;
 }
 
 .about__desc {
@@ -18,7 +19,8 @@
 
 .about__desc,
 .about__contact {
-  margin-top: 2.4em;
+  margin-top: 0.8em;
+  margin-left: 7.5em;
 }
 
 .about .link--icon {
@@ -41,6 +43,55 @@
   align-items: center;
   gap: 1.5rem; /* space between picture and text */
   margin-bottom: 1.5rem;
+}
+
+/* default order: picture first, intro second */
+.about__picture {
+  order: 1;
+}
+.about__intro {
+  order: 2;
+}
+
+.about__desc {
+  /* desc is outside header; no order needed by default */
+}
+
+@media (max-width: 600px) {
+  .app .about {
+    align-items: flex-start;
+    margin-top: 2em;
+  }
+
+  /* stack vertically on mobile */
+  .about__header {
+    flex-direction: column;
+  }
+
+  /* name/role first, picture second */
+  .about__intro {
+    order: 1;
+  }
+  .about__picture {
+    order: 2;
+  }
+
+  /* description already after header in DOM, so it'll appear third */
+
+  /* remove left margin on mobile for description/contact */
+  .about__desc,
+  .about__contact {
+    margin-left: 0;
+    padding-left: 1rem; /* optional small padding for readability */
+  }
+
+  /* ensure contact comes before description */
+  .about__contact {
+    order: 2;
+  }
+  .about__desc {
+    order: 3;
+  }
 }
 
 .about__picture {
