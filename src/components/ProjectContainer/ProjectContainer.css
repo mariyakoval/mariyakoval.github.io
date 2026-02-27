@@ -10,6 +10,11 @@
   transform: translateY(-7px);
 }
 
+.project h3 {
+  margin-top: 1em;
+  font-size: 1.15rem;
+}
+
 .project__description {
   margin-top: 1em;
 }
@@ -31,3 +36,5 @@
 .project .link--icon {
   margin-left: 0.5em;
 }
+
+
