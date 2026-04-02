@@ -21,17 +21,15 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
- // {
-   // name: 'Analysis of job-seeking factors among Ukrainian refugees in Europe',
-   // description:
-   //   'Analysis of UNHCR microdata on Ukrainian refugees in 6 European countries using logistic regression and random forest models to predict employment and integration outcomes.',
-   // stack: ['R', 'Python', 'Shiny'],
-   // sourceCode: 'https://github.com/mariyakoval/ukrainian-migration',
-   // livePreview: 'https://rpubs.com/mkoval28/1337111',
-  //  image: 'ukr.jpg',
- // },
+ {
+   name: 'Analysis of job-seeking factors among Ukrainian refugees in Europe',
+   description:
+     'Analysis of UNHCR microdata on Ukrainian refugees in 6 European countries using logistic regression and random forest models to predict employment and integration outcomes.',
+   stack: ['R', 'Python', 'Shiny'],
+   //sourceCode: 'https://github.com/mariyakoval/ukrainian-migration',
+   livePreview: 'https://rpubs.com/mkoval28/1416832',
+   image: 'ukr.jpg',
+ },
   {
     name: 'Analysis of Sustainability Indicators by Country using Machine Learning',
     description: 'GitHub Blog that uses visualizations, unsupervised learning algorithms, Shiny App dashboards and analysis of international policies to uncover changes in global sustainability levels since 1990.',
