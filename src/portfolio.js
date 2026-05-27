@@ -26,8 +26,7 @@ const projects = [
    description:
      'Analysis of UNHCR microdata on Ukrainian refugees in 6 European countries using logistic regression and random forest models to predict employment and integration outcomes.',
    stack: ['R', 'Python', 'Shiny'],
-   //sourceCode: 'https://github.com/mariyakoval/ukrainian-migration',
-   livePreview: 'https://rpubs.com/mkoval28/1416832',
+   livePreview: 'https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/ukrainiananalyticaldigest-018.pdf',
    image: 'ukr.jpg',
  },
   {
